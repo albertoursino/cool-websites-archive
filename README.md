@@ -1,6 +1,6 @@
 # Cool websites archive
 
 ## Life lessons
-- https://dontasktoask.com/
-- https://nohello.net/en/
-- https://xyproblem.info/
+- [Don't ask to ask, just ask](https://dontasktoask.com/)
+- [No hello](https://nohello.net/en/) 
+- [The XY Problem](https://xyproblem.info/)
